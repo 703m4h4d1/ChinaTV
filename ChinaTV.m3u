@@ -13,3 +13,5 @@ http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
 http://live.xwei.tv/channels/njtv/video_xwzh/flv:300k/live
 #EXTINF:-1,SCTV
 http://liveshow.sctv.com:1935/scgc/sctv1deu5453w/index.m3u8
+#EXTINF:-1,WLTV
+http://stream1.huaihai.tv/xwzh/sd/live.m3u8
