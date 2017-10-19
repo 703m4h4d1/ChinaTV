@@ -9,3 +9,5 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1,The Travel Channel
 http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
+#EXTINF:-1,NBS
+http://live.xwei.tv/channels/njtv/video_xwzh/flv:300k/live
